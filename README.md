@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xGIBOx
 - 👀 I’m mainly interested in C and C#, but also for a lot other things.
-- 🌱 I’m currently learning C.
+- 🌱 I’m currently learning C#.
 - 📫 Contact me via PM or GMAIL.
 
 <!---
